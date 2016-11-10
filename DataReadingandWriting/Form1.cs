@@ -34,8 +34,8 @@ namespace DataReadingandWriting
             }
             else if (teamStart)
             {
-                Student voter = new Student(tb_FileName.Text, lb_studentSelect); //only uncomment when all other components are complete
-                voter.assignID();
+                //Student voter = new Student(tb_FileName.Text, lb_studentSelect); //only uncomment when all other components are complete
+                //voter.assignID();
             }
         }
 

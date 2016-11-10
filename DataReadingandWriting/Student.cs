@@ -21,6 +21,13 @@ namespace DataReadingandWriting
         DataManager handler = new DataManager();
         ListBox studentVote;
 
+        public Student(string voterName)
+        {
+            preference = handler.readAllData(voterName);
+            nameVoter = voterName;
+            pref = new List<ID>();
+        }
+
         public Student(string voterName, ListBox box)
         {
             preference = handler.readAllData(voterName);
@@ -35,7 +42,7 @@ namespace DataReadingandWriting
             {
                 pref.Add(new ID(preference[i], i));
             }
-           // handler.loadAllDataToListBox(preference, studentVote);
+            //handler.loadAllDataToListBox(preference, studentVote);
         }
     }
 }

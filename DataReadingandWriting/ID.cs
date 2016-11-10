@@ -13,7 +13,6 @@ namespace DataReadingandWriting
          * A Numeric Value
          */
 
-        int numStudents = 19; //19 students
         int value;
         string voterName; 
 
@@ -23,15 +22,13 @@ namespace DataReadingandWriting
             value = weight;
         }
 
-        //public int[] weighting()
-        //{
-        //    int[] tempArray = new int[numStudents];
-        //    for (int i = 0; i < numStudents; i++)
-        //    {
-        //        tempArray[i] = i;
-        //    }
-
-        //    return tempArray;
-        //}
+        public string studentID()
+        {
+            return voterName;
+        }
+        public int studentValue()
+        {
+            return value;
+        }
     }
 }
