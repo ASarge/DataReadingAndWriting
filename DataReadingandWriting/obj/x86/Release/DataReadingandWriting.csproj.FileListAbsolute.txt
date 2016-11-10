@@ -1,0 +1,7 @@
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting\DataReadingandWriting\bin\Release\DataReadingandWriting.exe
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting\DataReadingandWriting\bin\Release\DataReadingandWriting.pdb
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting\DataReadingandWriting\obj\x86\Release\DataReadingandWriting.Form1.resources
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting\DataReadingandWriting\obj\x86\Release\DataReadingandWriting.Properties.Resources.resources
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting\DataReadingandWriting\obj\x86\Release\DataReadingandWriting.csproj.GenerateResource.Cache
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting\DataReadingandWriting\obj\x86\Release\DataReadingandWriting.exe
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting\DataReadingandWriting\obj\x86\Release\DataReadingandWriting.pdb

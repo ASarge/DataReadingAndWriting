@@ -1,0 +1,90 @@
+C:\Users\1kapahisid\AppData\Local\Temporary Projects\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.Properties.Resources.resources
+C:\Users\1kapahisid\AppData\Local\Temporary Projects\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.csproj.GenerateResource.Cache
+C:\Users\1kapahisid\Desktop\DataReadingandWriting\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.Form1.resources
+C:\Users\1kapahisid\Desktop\DataReadingandWriting\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.Properties.Resources.resources
+C:\Users\1kapahisid\Desktop\DataReadingandWriting\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.csproj.GenerateResource.Cache
+C:\Users\1kapahisid\Desktop\DataReadingandWriting\DataReadingandWriting\bin\Debug\DataReadingandWriting.exe
+C:\Users\1kapahisid\Desktop\DataReadingandWriting\DataReadingandWriting\bin\Debug\DataReadingandWriting.pdb
+C:\Users\1kapahisid\Desktop\DataReadingandWriting\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.exe
+C:\Users\1kapahisid\Desktop\DataReadingandWriting\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.pdb
+C:\Users\1sargentoand\Desktop\DataReadingandWriting\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.exe
+C:\Users\1sargentoand\Desktop\DataReadingandWriting\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.Properties.Resources.resources
+C:\Users\1sargentoand\Desktop\DataReadingandWriting\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.csproj.GenerateResource.Cache
+C:\Users\1sargentoand\Desktop\DataReadingandWriting\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.Form1.resources
+C:\Users\1sargentoand\Desktop\DataReadingandWriting\DataReadingandWriting\bin\Debug\DataReadingandWriting.exe
+C:\Users\1sargentoand\Desktop\DataReadingandWriting\DataReadingandWriting\bin\Debug\DataReadingandWriting.pdb
+C:\Users\1sargentoand\Desktop\DataReadingandWriting\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.pdb
+C:\Users\Laarni\Downloads\DataReadingandWriting\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.exe
+C:\Users\Laarni\Downloads\DataReadingandWriting\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.pdb
+C:\Users\Laarni\Downloads\DataReadingandWriting\DataReadingandWriting\bin\Debug\DataReadingandWriting.exe
+C:\Users\Laarni\Downloads\DataReadingandWriting\DataReadingandWriting\bin\Debug\DataReadingandWriting.pdb
+C:\Users\Laarni\Downloads\DataReadingandWriting\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.csprojResolveAssemblyReference.cache
+C:\Users\Laarni\Downloads\DataReadingandWriting\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.Form1.resources
+C:\Users\Laarni\Downloads\DataReadingandWriting\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.Properties.Resources.resources
+C:\Users\Laarni\Downloads\DataReadingandWriting\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.csproj.GenerateResource.Cache
+C:\Users\1sargentoand\Downloads\DataReadingandWriting v.1\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.exe
+C:\Users\1sargentoand\Downloads\DataReadingandWriting v.1\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.pdb
+C:\Users\1sargentoand\Downloads\DataReadingandWriting v.1\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.csprojResolveAssemblyReference.cache
+C:\Users\1sargentoand\Downloads\DataReadingandWriting v.1\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.Form1.resources
+C:\Users\1sargentoand\Downloads\DataReadingandWriting v.1\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.Properties.Resources.resources
+C:\Users\1sargentoand\Downloads\DataReadingandWriting v.1\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.csproj.GenerateResource.Cache
+C:\Users\1sargentoand\Downloads\DataReadingandWriting v.1\DataReadingandWriting\bin\Debug\DataReadingandWriting.exe
+C:\Users\1sargentoand\Downloads\DataReadingandWriting v.1\DataReadingandWriting\bin\Debug\DataReadingandWriting.pdb
+C:\Users\1GALEETH\Downloads\DataReadingandWriting\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.exe
+C:\Users\1GALEETH\Downloads\DataReadingandWriting\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.pdb
+C:\Users\1GALEETH\Downloads\DataReadingandWriting\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.csprojResolveAssemblyReference.cache
+C:\Users\1GALEETH\Downloads\DataReadingandWriting\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.Form1.resources
+C:\Users\1GALEETH\Downloads\DataReadingandWriting\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.Properties.Resources.resources
+C:\Users\1GALEETH\Downloads\DataReadingandWriting\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.csproj.GenerateResource.Cache
+C:\Users\1GALEETH\Downloads\DataReadingandWriting\DataReadingandWriting\bin\Debug\DataReadingandWriting.exe
+C:\Users\1GALEETH\Downloads\DataReadingandWriting\DataReadingandWriting\bin\Debug\DataReadingandWriting.pdb
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.exe
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.pdb
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting\DataReadingandWriting\bin\Debug\DataReadingandWriting.exe
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting\DataReadingandWriting\bin\Debug\DataReadingandWriting.pdb
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.csprojResolveAssemblyReference.cache
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.Form1.resources
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.Properties.Resources.resources
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.csproj.GenerateResource.Cache
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting\DataReadingAndWriting-master\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.exe
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting\DataReadingAndWriting-master\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.pdb
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting\DataReadingAndWriting-master\DataReadingandWriting\bin\Debug\DataReadingandWriting.exe
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting\DataReadingAndWriting-master\DataReadingandWriting\bin\Debug\DataReadingandWriting.pdb
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting\DataReadingAndWriting-master\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.csprojResolveAssemblyReference.cache
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting\DataReadingAndWriting-master\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.Form1.resources
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting\DataReadingAndWriting-master\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.Properties.Resources.resources
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting\DataReadingAndWriting-master\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.csproj.GenerateResource.Cache
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting v1.5.2\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.exe
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting v1.5.2\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.pdb
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting v1.5.2\DataReadingandWriting\bin\Debug\DataReadingandWriting.exe
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting v1.5.2\DataReadingandWriting\bin\Debug\DataReadingandWriting.pdb
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting v1.5.2\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.csprojResolveAssemblyReference.cache
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting v1.5.2\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.Form1.resources
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting v1.5.2\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.Properties.Resources.resources
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting v1.5.2\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.csproj.GenerateResource.Cache
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting v1.5.3\DataReadingAndWriting v1.5.3\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.exe
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting v1.5.3\DataReadingAndWriting v1.5.3\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.pdb
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting v1.5.3\DataReadingAndWriting v1.5.3\DataReadingandWriting\bin\Debug\DataReadingandWriting.exe
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting v1.5.3\DataReadingAndWriting v1.5.3\DataReadingandWriting\bin\Debug\DataReadingandWriting.pdb
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting v1.5.3\DataReadingAndWriting v1.5.3\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.csprojResolveAssemblyReference.cache
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting v1.5.3\DataReadingAndWriting v1.5.3\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.Form1.resources
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting v1.5.3\DataReadingAndWriting v1.5.3\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.Properties.Resources.resources
+C:\Users\1sargentoand\Downloads\DataReadingAndWriting v1.5.3\DataReadingAndWriting v1.5.3\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.csproj.GenerateResource.Cache
+G:\MyPortfolio\DataReadingAndWriting v1.5.3\DataReadingAndWriting v1.5.3\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.exe
+G:\MyPortfolio\DataReadingAndWriting v1.5.3\DataReadingAndWriting v1.5.3\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.pdb
+C:\Users\Laarni\Downloads\DataReadingAndWriting v1.5.3-20161110T003646Z\DataReadingAndWriting v1.5.3\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.exe
+C:\Users\Laarni\Downloads\DataReadingAndWriting v1.5.3-20161110T003646Z\DataReadingAndWriting v1.5.3\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.pdb
+C:\Users\Laarni\Downloads\DataReadingAndWriting v1.5.3-20161110T003646Z\DataReadingAndWriting v1.5.3\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.csprojResolveAssemblyReference.cache
+C:\Users\Laarni\Downloads\DataReadingAndWriting v1.5.3-20161110T003646Z\DataReadingAndWriting v1.5.3\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.Form1.resources
+C:\Users\Laarni\Downloads\DataReadingAndWriting v1.5.3-20161110T003646Z\DataReadingAndWriting v1.5.3\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.Properties.Resources.resources
+C:\Users\Laarni\Downloads\DataReadingAndWriting v1.5.3-20161110T003646Z\DataReadingAndWriting v1.5.3\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.csproj.GenerateResource.Cache
+C:\Users\Laarni\Downloads\DataReadingAndWriting v1.5.3-20161110T003646Z\DataReadingAndWriting v1.5.3\DataReadingandWriting\bin\Debug\DataReadingandWriting.exe
+C:\Users\Laarni\Downloads\DataReadingAndWriting v1.5.3-20161110T003646Z\DataReadingAndWriting v1.5.3\DataReadingandWriting\bin\Debug\DataReadingandWriting.pdb
+C:\Users\Laarni\Downloads\DataReadingAndWriting v1.5.3-20161110T003646Z\DataReadingAndWriting v1.5.5\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.exe
+C:\Users\Laarni\Downloads\DataReadingAndWriting v1.5.3-20161110T003646Z\DataReadingAndWriting v1.5.5\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.pdb
+C:\Users\Laarni\Downloads\DataReadingAndWriting v1.5.3-20161110T003646Z\DataReadingAndWriting v1.5.5\DataReadingandWriting\bin\Debug\DataReadingandWriting.exe
+C:\Users\Laarni\Downloads\DataReadingAndWriting v1.5.3-20161110T003646Z\DataReadingAndWriting v1.5.5\DataReadingandWriting\bin\Debug\DataReadingandWriting.pdb
+C:\Users\Laarni\Downloads\DataReadingAndWriting v1.5.3-20161110T003646Z\DataReadingAndWriting v1.5.5\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.csprojResolveAssemblyReference.cache
+C:\Users\Laarni\Downloads\DataReadingAndWriting v1.5.3-20161110T003646Z\DataReadingAndWriting v1.5.5\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.Form1.resources
+C:\Users\Laarni\Downloads\DataReadingAndWriting v1.5.3-20161110T003646Z\DataReadingAndWriting v1.5.5\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.Properties.Resources.resources
+C:\Users\Laarni\Downloads\DataReadingAndWriting v1.5.3-20161110T003646Z\DataReadingAndWriting v1.5.5\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.csproj.GenerateResource.Cache
