@@ -98,3 +98,9 @@ C:\Users\Laarni\Downloads\DataReadingAndWriting v1.5.3-20161110T003646Z\DataRead
 C:\Users\Laarni\Downloads\DataReadingAndWriting v1.5.3-20161110T003646Z\DataReadingAndWriting\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.csproj.GenerateResource.Cache
 C:\Users\Laarni\Desktop\Computer Science\Gr. 12\C# Projects\DataReadingAndWriting\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.exe
 C:\Users\Laarni\Desktop\Computer Science\Gr. 12\C# Projects\DataReadingAndWriting\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.pdb
+C:\Users\Laarni\Desktop\Computer Science\Gr. 12\C# Projects\DataReadingAndWriting\DataReadingandWriting\bin\Debug\DataReadingandWriting.exe
+C:\Users\Laarni\Desktop\Computer Science\Gr. 12\C# Projects\DataReadingAndWriting\DataReadingandWriting\bin\Debug\DataReadingandWriting.pdb
+C:\Users\Laarni\Desktop\Computer Science\Gr. 12\C# Projects\DataReadingAndWriting\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.csprojResolveAssemblyReference.cache
+C:\Users\Laarni\Desktop\Computer Science\Gr. 12\C# Projects\DataReadingAndWriting\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.Form1.resources
+C:\Users\Laarni\Desktop\Computer Science\Gr. 12\C# Projects\DataReadingAndWriting\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.Properties.Resources.resources
+C:\Users\Laarni\Desktop\Computer Science\Gr. 12\C# Projects\DataReadingAndWriting\DataReadingandWriting\obj\x86\Debug\DataReadingandWriting.csproj.GenerateResource.Cache

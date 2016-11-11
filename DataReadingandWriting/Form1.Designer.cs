@@ -47,8 +47,11 @@
             this.autoloadToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.l_teamCap = new System.Windows.Forms.Label();
             this.nUD_teamCap = new System.Windows.Forms.NumericUpDown();
+            this.nUD_ClassSize = new System.Windows.Forms.NumericUpDown();
+            this.l_classSize = new System.Windows.Forms.Label();
             this.menuStrip1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.nUD_teamCap)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nUD_ClassSize)).BeginInit();
             this.SuspendLayout();
             // 
             // b_LoadAll
@@ -225,11 +228,36 @@
             this.nUD_teamCap.TabIndex = 21;
             this.nUD_teamCap.Visible = false;
             // 
+            // nUD_ClassSize
+            // 
+            this.nUD_ClassSize.Location = new System.Drawing.Point(136, 102);
+            this.nUD_ClassSize.Maximum = new decimal(new int[] {
+            40,
+            0,
+            0,
+            0});
+            this.nUD_ClassSize.Name = "nUD_ClassSize";
+            this.nUD_ClassSize.Size = new System.Drawing.Size(119, 20);
+            this.nUD_ClassSize.TabIndex = 22;
+            this.nUD_ClassSize.Visible = false;
+            // 
+            // l_classSize
+            // 
+            this.l_classSize.AutoSize = true;
+            this.l_classSize.Location = new System.Drawing.Point(60, 104);
+            this.l_classSize.Name = "l_classSize";
+            this.l_classSize.Size = new System.Drawing.Size(58, 13);
+            this.l_classSize.TabIndex = 23;
+            this.l_classSize.Text = "Class Size:";
+            this.l_classSize.Visible = false;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(734, 462);
+            this.Controls.Add(this.l_classSize);
+            this.Controls.Add(this.nUD_ClassSize);
             this.Controls.Add(this.nUD_teamCap);
             this.Controls.Add(this.l_teamCap);
             this.Controls.Add(this.b_Randomizer);
@@ -250,6 +278,7 @@
             this.menuStrip1.ResumeLayout(false);
             this.menuStrip1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.nUD_teamCap)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.nUD_ClassSize)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -276,6 +305,8 @@
         private System.Windows.Forms.ToolStripMenuItem teamMakerToolStripMenuItem;
         private System.Windows.Forms.Label l_teamCap;
         private System.Windows.Forms.NumericUpDown nUD_teamCap;
+        private System.Windows.Forms.NumericUpDown nUD_ClassSize;
+        private System.Windows.Forms.Label l_classSize;
     }
 }
 

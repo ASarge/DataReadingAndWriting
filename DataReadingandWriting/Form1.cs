@@ -36,6 +36,10 @@ namespace DataReadingandWriting
             {
                 //Student voter = new Student(tb_FileName.Text, lb_studentSelect); //only uncomment when all other components are complete
                 //voter.assignID();
+                for (int i = 0; i < (int)nUD_ClassSize.Value; i++) //try to figure out how to compare list of IDs/values
+                {
+                    Team trial = new Team((int)nUD_teamCap.Value, (int)nUD_ClassSize.Value);
+                }
             }
         }
 
